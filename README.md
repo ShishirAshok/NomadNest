@@ -26,13 +26,13 @@ NomadNest is a platform where travelers can find accommodations offered by hosts
 
 ## Getting Started
   ### Clone the Repository
-    ```sh
+   
    git clone https://github.com/ShishirAshok/NomadNest.git
-   ```
+   
   ###  Install NPM packages
-   ```sh
+   
    npm install
-   ```
+   
   ###  Contact the repository owner at shishirashok@gmail.com for the API keys
 
 
